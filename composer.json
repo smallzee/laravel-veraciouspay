@@ -1,0 +1,22 @@
+{
+    "name": "smallzee/laravel-veraciouspay",
+    "description": "A laravel package to seamlessly integrate VeraciousPay api within your laravel application",
+    "type": "library",
+    "require": {
+        "php": ">=5.6",
+        "illuminate/support": ">=5.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Smallzee\\LaravelVeraciouspay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "smallzee",
+            "email": "tech4all583@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
